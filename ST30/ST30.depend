@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419428943 source:d:\admin\desktop\itsa\st30\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

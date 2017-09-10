@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419733726 source:d:\admin\desktop\itsa\mm35\main.c
+	<stdio.h>
+	<stdlib.h>
+
